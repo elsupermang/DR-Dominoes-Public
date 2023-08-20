@@ -1,0 +1,38 @@
+Privacy Policy for DR Dominoes Tracker
+
+At Dude Ranch LLC, we are committed to protecting the privacy of our users. This Privacy Policy outlines how we collect, use, disclose, and handle any personal or non-personal information collected through our DR Dominoes Tracker Android application.
+
+Information Collection:
+
+DR Dominoes Tracker does not collect any personally identifiable information (PII) from its users.
+We do not use any third-party analytics or tracking services that may collect personal or non-personal data.
+Device Information:
+
+DR Dominoes Tracker may collect certain non-personal information automatically, such as the device type, operating system version, and unique device identifiers. This information is collected solely for the purpose of improving the performance and functionality of our application and is never linked to any personal details.
+Cookies and Data Storage:
+
+DR Dominoes Tracker does not use any cookies or store any user data on our servers.
+We do not collect or store any login credentials or sensitive information.
+Ads:
+
+DR Dominoes Tracker does not display any advertisements or use any ad networks that may collect user data.
+Third-Party Links:
+
+DR Dominoes Tracker may contain links to third-party websites or services. These external websites or services are not governed by this Privacy Policy. We encourage our users to review the privacy policies of these third-party platforms before providing any personal information.
+Children’s Privacy:
+
+DR Dominoes Tracker is not intended for children under the age of 13. We do not knowingly collect any personal information from children. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately to request its deletion.
+Security:
+
+We take reasonable measures to protect the security and integrity of our application and user data. However, please note that no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security.
+Updates to the Privacy Policy:
+
+We reserve the right to update or modify this Privacy Policy at any time. Any changes made will be effective immediately upon posting the updated Privacy Policy on our website or within the application.
+Contact Us:
+
+If you have any questions, concerns, or feedback regarding this Privacy Policy or our privacy practices, please contact us by email at e.lora@yahoo.com.
+By using DR Dominoes Tracker, you acknowledge and consent to the practices described in this Privacy Policy.
+
+Last updated: 08/20/2023
+
+Note: This Privacy Policy template is provided for informational purposes only and should not be considered legal advice. It is recommended to consult with a legal professional to ensure compliance with privacy laws and regulations specific to your jurisdiction.
